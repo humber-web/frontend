@@ -9,6 +9,7 @@
             <SideBarLink to="Menu" icon="utensils" />
             <SideBarLink to="Pedidos" icon="shopping-cart" />
             <SideBarLink to="Messas" icon="chair" />
+            <SideBarLink to="Productos" icon="box" />
             <SideBarLink to="Contabilidade" icon="calculator" />
             <SideBarLink to="Configurações" icon="cogs" />
         </div>
